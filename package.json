@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/strugee/node-cache-or-tmp-directory/issues"
   },
-  "homepage": "https://github.com/strugee/node-cache-or-tmp-directory#readme"
+  "homepage": "https://github.com/strugee/node-cache-or-tmp-directory#readme",
+  "dependencies": {
+    "cache-directory": "^2.0.0"
+  }
 }
